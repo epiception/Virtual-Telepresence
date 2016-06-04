@@ -6,7 +6,7 @@ Requirements:
 App: Wireless IMU on the Android enabled smartphone
 PI:  Servoblaster package for Hardware PWM pulses ON GPIO (source:github/richardghirst/PiBits)
 
-Description:
+Description: For Gimbal Control using Cardboard and Android Smartphone
 This file accepts udp PACKETS from the phone and uses those values to map to angles and control 2 servos(Pan and Tilt)
 on gpio pin 4(pwm hardwaee channel 0) and gpio pin 17
 
