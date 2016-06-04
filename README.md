@@ -1,7 +1,7 @@
 # Virtual-Telepresence
 3d Telepresence(SBS)  Platform using Google Cardboard and Raspberry Pi 2
 
-
+View our current Implementation: https://www.youtube.com/watch?v=YWjOEWO5lFs
 
 (I really need expertise in perfecting this project from you fellow tinkers. Any contributions are gladly accepted with a transfer of ASCII cookies. Here, have a cookie :')
 
