@@ -2,13 +2,13 @@
 
 Created: 23-04-2015 
 Last Modified: 30-03-2016
-Author: Original: Saurav Shandilya (e-Yantra Team) [Modified]
+Author: Original: Saurav Shandilya (e-Yantra Team) [Modified: Ganesh Iyer]
 Application: Development of Raspberry Pi controlled Firebird-V Robot.
-Hardware: Firebird-V Atmega2560 Robot and Raspberry Pi 1
+Hardware: Firebird-V Atmega2560 Robot and Raspberry Pi 2
 Python Version: 2.7
 
 ----------------------------------
-
+Changes: For left and right keyboard/ keypress control
 
 '''
 
@@ -162,7 +162,7 @@ def back ():
 
 #**********************Left Starts*********************	
 def left ():
-	 print "Forward Motion"
+	 print "Left Motion"
 	 data = []
 	 device_id = 2				#DC Motors has device id = 2
 	 device_type = 1			#DC Motors is o/p device. hence device type = 0	
@@ -191,7 +191,7 @@ def left ():
 
 #**********************Right Starts*********************	
 def right ():
-	 print "Forward Motion"
+	 print "Right Motion"
 	 data = []
 	 device_id = 2				#DC Motors has device id = 2
 	 device_type = 1			#DC Motors is o/p device. hence device type = 0	
