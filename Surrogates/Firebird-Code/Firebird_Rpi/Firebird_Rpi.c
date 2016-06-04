@@ -839,7 +839,6 @@ void copy_data_packet()
 		//_delay_ms(1000);
 	}
 	//UDR2 = 'O';
-	
 }
 
 //Main Function
