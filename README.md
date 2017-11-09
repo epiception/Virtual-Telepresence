@@ -6,23 +6,6 @@
 " target="_blank"><img src="http://img.youtube.com/vi/YWjOEWO5lFs/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-(I really need expertise in perfecting this project from you fellow tinkers. Any contributions are gladly accepted with a transfer of ASCII cookies. Here, have a cookie :')
-
-               -=[ cookies & milk ]=- 
-
-                               .-'''''-.
-                               |'-----'|
-                               |-.....-|
-                               |       |
-                               |       |
-              _,._             |       |
-         __.o`   o`"-.         |       |
-      .-O o `"-.o   O )_,._    |       |
-     ( o   O  o )--.-"`O   o"-.`'-----'`
-      '--------'  (   o  O    o)  
-                   `----------`
- 
-
 ### Requirements:  
 
 #### Hardware:  
